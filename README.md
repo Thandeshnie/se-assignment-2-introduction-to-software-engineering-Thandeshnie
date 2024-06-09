@@ -8,7 +8,8 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 Define Software Engineering:is the systematic application of engineering principles ,methodes and to tools to develipemnt and maintamce of high quality softwware systeme 
 
-What is software engineering, and how does it differ from traditional programming? software engineering involves developement,design,testing , deployement and maintance of software products. the skills required for software engineers combines computer science principles, engineering practice and project management.software engineers often work and collaborate with teams that work in system achitecture , requirment analysis and project planning.   
+What is software engineering, and how does it differ from traditional programming? 
+software engineering involves developement,design,testing , deployement and maintance of software products. the skills required for software engineers combines computer science principles, engineering practice and project management.software engineers often work and collaborate with teams that work in system achitecture , requirment analysis and project planning.   
 While on the other hand tradition programming is the process of writting code to create softeware applications or solvr specific problems , the primary focus here is code writting and making sure that the program works , programmers have technical expertise in coding languages and algorthms.Programmers often work alone.
 
 
@@ -66,7 +67,7 @@ Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 
-Unti testing -Testing of individual componmtse.g methodes  or classes . it focuses on verifying that each unit behaves and its important because it etects early and ensures correctness
+Unit  testing -Testing of individual componmtse.g methodes  or classes . it focuses on verifying that each unit behaves and its important because it etects early and ensures correctness
 Intergratin testing verify interactions between integrated modules or components . 
 System testing Validate the enire system as a wholes , verifies end to end functionality, performance , security and compliance. 
 Acceptance testing  ensure software meets user requirements 
