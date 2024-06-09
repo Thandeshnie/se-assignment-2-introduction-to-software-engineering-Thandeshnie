@@ -67,7 +67,7 @@ Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 
-Unti testing -Testing of individual componmtse.g methodes  or classes . it focuses on verifying that each unit behaves and its important because it etects early and ensures correctness
+Unit  testing -Testing of individual componmtse.g methodes  or classes . it focuses on verifying that each unit behaves and its important because it etects early and ensures correctness
 Intergratin testing verify interactions between integrated modules or components . 
 System testing Validate the enire system as a wholes , verifies end to end functionality, performance , security and compliance. 
 Acceptance testing  ensure software meets user requirements 
